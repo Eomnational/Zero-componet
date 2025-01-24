@@ -18,8 +18,8 @@ const sampleTrack = {
   id: '1',
   title: '夜曲',
   artist: '周杰伦',
-  cover: 'https://example.com/cover.jpg', // 替换为实际封面URL
-  audioUrl: 'https://example.com/audio.mp3', // 替换为实际音频URL
+  cover: 'https://i1.hdslb.com/bfs/archive/50c1cf67c08e21d40c321787f4dc8a6f349a8a04.jpg', 
+  audioUrl: 'https://example.com/audio.mp3',
 };
 
 export const Default: Story = {
